@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "angular": "^1.7.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.6",
+    "grunt": "^1.0.3"
+  },
+  "scripts": {
+    "setup": "yarn global add grunt; yarn install --offline"
+  }
+}
